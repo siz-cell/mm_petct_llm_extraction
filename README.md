@@ -18,19 +18,6 @@
 │   ├── hunxiao.py              # Confusion matrix computation
 │   ├── maptest.py              # Follow-up mapping
 │   ├── parse_all.py            # Text block → structured data normalization
-│   ├── make_table1.py          # Generate Table 1 (Patient Baseline)
-│   ├── make_table6.py          # Generate Table 6 (Interpretability)
-│   ├── rebuild_tables.py       # Generate Tables T2-T4, T7-T9, T11
-│   ├── make_heatmap.py         # Generate Fig 2 heatmap
-│   ├── make_roc_pr.py          # Generate Fig 6C ROC/PR curves
-│   ├── make_fig5_cm.py         # Generate Fig 6B confusion matrices
-│   ├── make_fig5_6_9.py        # Generate Fig 6/Fig 9 radar charts
-│   ├── make_composite_figure.py # Generate Fig 4-5 composite
-│   ├── make_concept_figs.py    # Generate Fig 1/3/8 concept diagrams
-│   ├── make_remaining_figs.py  # Generate Fig 5v2/6A/7
-│   ├── make_remaining_supp.py  # Generate S8,S11,S12,S13 + 7 raw data CSVs
-│   ├── make_data_dict.py       # Generate S1 data dictionary
-│   ├── make_charts.py          # Lesion detail charts (Fig 1-7)
 │   └── fix_all.py              # Run-all fix script (tables + charts)
 │
 ├── notebooks/                   # Computation notebooks
